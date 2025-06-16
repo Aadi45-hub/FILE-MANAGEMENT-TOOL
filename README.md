@@ -189,4 +189,8 @@ Menu-driven program 🎛 – User interaction logic.
 🗂 Move to database (SQLite, MySQL) for large scale.
 
 
+Output
 
+
+
+![Image](https://github.com/user-attachments/assets/433b4fde-19b4-44c0-b68a-37613351608d)
